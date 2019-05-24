@@ -11,7 +11,7 @@
 
 This is Hangman game for user to guess words that related to animal
 
-![screenshot]()
+![screenshot](https://github.com/elvykiung/HangMan-Game/blob/master/assets/imgs/final.gif?raw=true)
 
 ## Technologies
 

@@ -18,19 +18,16 @@ This is Hangman game for user to guess words that related to animal
 Project is built with:
 
 - JavaScript
-- JQuery
 - Bootstrap
 - HTML 5 & CSS 3
 
 ## Deployment
 
-- Live link: 
+- Live link: https://github.com/elvykiung/HangMan-Game.git
 - Portfolio link: https://elvykiung.github.io/
 
 ## Code Overview
 
 ### Summary
 
-
-
-### JavaScript Function explain
+Using JavaScript event listener to listen user input keys.
